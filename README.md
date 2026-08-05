@@ -1,18 +1,18 @@
 # Certificates
 
-รวมประกาศนียบัตร (Certificates) ที่ได้รับจากการเรียนคอร์สและกิจกรรมต่าง ๆ ไฟล์ต้นฉบับอยู่ในรูปแบบ PDF และมีภาพตัวอย่าง (PNG) ประกอบไว้ให้ดูแบบเร็ว ๆ
+A collection of certificates earned from various courses and activities. Original files are in PDF format, with PNG preview images included for quick viewing.
 
-## 📂 โครงสร้างโฟลเดอร์
+## 📂 Folder Structure
 
 ```
 Certificates/
-├── pdf/   # ไฟล์ประกาศนียบัตรฉบับเต็ม (PDF)
-└── png/   # ภาพตัวอย่างประกาศนียบัตร (PNG)
+├── pdf/   # Full certificate files (PDF)
+└── png/   # Certificate preview images (PNG)
 ```
 
-## 📜 รายการประกาศนียบัตร
+## 📜 Certificate List
 
-| ชื่อประกาศนียบัตร | PDF | ภาพตัวอย่าง |
+| Certificate Name | PDF | Preview |
 | --- | --- | --- |
 | AWS Cloud Essential | [PDF](./pdf/AWS%20Cloud%20Essential.pdf) | [PNG](./png/AWS%20Cloud%20Essential.png) |
 | AWS Cloud Solutions Architect | [PDF](./pdf/AWS%20Cloud%20Solutions%20Architect.pdf) | [PNG](./png/AWS%20Cloud%20Solutions%20Architect.png) |
@@ -24,7 +24,7 @@ Certificates/
 | GCP Data Lake and Data Warehouse | [PDF](./pdf/GCP%20Data%20Lake%20and%20Data%20Warehouse.pdf) | [PNG](./png/GCP%20Data%20Lake%20and%20Data%20Warehouse.png) |
 | NTU Hackathon | [PDF](./pdf/NTU%20Hackathon.pdf) | [PNG](./png/NTU%20Hackathon.png) |
 
-## ℹ️ หมายเหตุ
+## ℹ️ Notes
 
-- ไฟล์ PNG เป็นภาพตัวอย่าง (preview) ของประกาศนียบัตรแต่ละใบ ใช้สำหรับดูอย่างรวดเร็วโดยไม่ต้องเปิดไฟล์ PDF
-- ไฟล์ PDF คือฉบับเต็มที่สามารถใช้อ้างอิงหรือดาวน์โหลดได้
+- PNG files are preview images of each certificate, useful for quick viewing without opening the PDF.
+- PDF files are the full versions, suitable for reference or download.
